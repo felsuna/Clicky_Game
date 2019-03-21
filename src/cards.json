@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Ana",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ana/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Mercy",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Moira",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/moira/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Pharah",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/pharah/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Widow-Maker",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/widowmaker/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Sombra",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/sombra/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Symmetra",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/symmetra/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Ashe",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ashe/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Brigitte",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/brigitte/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "D.Va",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/dva/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Tracer",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/tracer/hero-select-portrait.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Zarya",
+      "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/zarya/hero-select-portrait.png",
+      "count": 0
+    }
+  ]
