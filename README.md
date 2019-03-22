@@ -1,3 +1,10 @@
+This is a memory game using React.js
+
+How to play:
+Click on an image to earn points, but don't click on any more than once.
+
+______________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
